@@ -1,0 +1,7 @@
+{
+    "token": "PUTYOURDISCORDTOKENHERE",
+    "prefix": "?",
+    "api": "PUTYOURTORNAPIKEYHERE",
+    "clientId": "PUTYOURDISCORDCLIENTIDHERE",
+    "guildId": "PUTYOURDISCORDGUILDIDHERE"
+}
